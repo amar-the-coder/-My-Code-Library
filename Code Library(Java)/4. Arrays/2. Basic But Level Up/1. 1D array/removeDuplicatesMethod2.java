@@ -1,3 +1,4 @@
+// Time complexity -- O(n^2)
 package arrays;
 
 import java.util.Scanner;

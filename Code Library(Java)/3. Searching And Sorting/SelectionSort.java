@@ -1,3 +1,5 @@
+//time complexity-- o(n)
+
 package searchingAndSorting;
 
 import java.util.Scanner;
