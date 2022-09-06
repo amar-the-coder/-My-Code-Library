@@ -24,6 +24,10 @@ public class fastPower {
 		int b= sc.nextInt();
 		int ans = fastpower(a,b);
 		System.out.println(ans);
+
+
+// approach 2 using modulo ... will adding soon
+// we have to use modulo because the above function cannot handle the big values as it will overflow the value of int.
 		
 	}
 
