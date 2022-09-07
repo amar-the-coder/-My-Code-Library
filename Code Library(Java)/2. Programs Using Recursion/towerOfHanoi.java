@@ -1,3 +1,5 @@
+// time complexity --- O(2^n)
+
 package recursion;
 
 import java.util.Scanner;
