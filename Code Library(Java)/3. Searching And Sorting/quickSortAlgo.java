@@ -36,7 +36,7 @@ public class quickSortAlgo {
 		if(j!=l)  // when they cross each other, swap pivot with end 
 			swap(arr,j,l );
 		
-		return j; // pivot element the index mil gya
+		return j; // pivot element ka index mil gya
 		
 	}
 	
@@ -61,8 +61,6 @@ public class quickSortAlgo {
 		
 		int arr[] = new int[size];
 		
-		
-		
 		System.out.println("enter the values in array");
 		
 		for(int i=0; i<size;i++) {
@@ -77,7 +75,7 @@ public class quickSortAlgo {
 		
 		quickSort(arr, left, right);
 				
-		// print
+		// print the array
 		
 		System.out.println("the sorted array is:");
 		
