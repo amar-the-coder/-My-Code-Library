@@ -109,50 +109,51 @@ public class mergeSort {
 	              
 	              
 	              
-// jenny lecture wala code jo mujhe samaj aaya
+// ------>>>>>> jenny lecture wala code jo mujhe samaj aaya.....................
 	        
-	          public static void merge(int a[], int lb, int mid , int ub) {   
-	        	  int	b[] = new int[ub-lb+1];
-	        	 int  i=lb;
-	        	  int  j=mid+1;
-	        	    int k= lb;
+//	          public static void merge(int a[], int lb, int mid, int ub) {   
+
+//	        	  int	b[] = new int[ub-lb+1];
+//	        	 int  i=lb;
+//	        	  int  j=mid+1;
+//	        	    int k= lb;
 	        	   
 	        	   
-	        	   while(i<=mid && j<=ub) {
-	        		   if(a[i]<=a[j]) {
-	        			   b[k]=a[i];
-	        			   i++;
-	        		   }
+//	        	   while(i<=mid && j<=ub) {
+//	        		   if(a[i]<=a[j]) {
+//	        			   b[k]=a[i];
+//	        			   i++;
+//	        		   }
 	        		   
-	        		   else {
-	        			   b[k]=a[j];
-	        			   j++;
-	        		   }
-	        			   k++;
-	        		   }
+//	        		   else {
+//	        			   b[k]=a[j];
+//        			   j++;
+//	        		   }
+//	        			   k++;
+//	        		   }
 	        		   
 	        		   
-	        		   if(i>mid) {
-	        			   while(j<=ub) {
-	        				   b[k]= a[j];
-	        				   j++;
-	        				   k++;
+//	        		   if(i>mid) {
+//	        			   while(j<=ub) {
+//	        				   b[k]= a[j];
+//	        				   j++;
+//	        				   k++;
 	        				   
-	        			   }
-	        		   }
+//	        			   }
+//	        		   }
 	        		   
 	        		   
-	        		   else {
-	        			   while(i<=mid) {
-	        				   b[k]=a[i];
-	        				   i++;
-	        				   k++;
-	        			   }
-	        		   }
+//	        		   else {
+//        			   while(i<=mid) {
+//	        				   b[k]=a[i];
+//	        				   i++;
+//	        				   k++;
+//	        			   }
+//	        		   }
 	        		   
-	        		   for(k=lb; k<=ub ; k++) {
-	        			   a[k] = b[k];
-	        			   }}
+//	        		   for(k=lb; k<=ub ; k++) {
+//	        			   a[k] = b[k];
+//	        			   }}
 	        		   
 	            
 	     
