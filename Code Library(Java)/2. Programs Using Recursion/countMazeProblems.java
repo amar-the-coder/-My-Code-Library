@@ -2,7 +2,7 @@ package recursion;
 
 import java.util.Scanner;
 
-public class countMazeProblems {
+class countMazeProblems {
 	
 	public static int countPaths(int i, int j, int n, int m) {
 	      if(i==n || j==m)

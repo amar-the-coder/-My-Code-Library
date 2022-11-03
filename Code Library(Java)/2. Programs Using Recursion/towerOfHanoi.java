@@ -4,7 +4,7 @@ package recursion;
 
 import java.util.Scanner;
 
-public class towerOfHanoi {
+ class towerOfHanoi {
      public static void towerOfHanoi(int n , String src , String helper , String dest){
     	 if(n==1) {
     		 System.out.println("transfer desk " +n+ "from " +src+ "to " +dest);
