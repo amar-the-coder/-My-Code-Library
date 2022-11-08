@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class printLastAndFirstOcurrenceString {
+public class printLastAndFirstOcurrString {
 
 	public static int first = -1;
 	public static int last = -1;

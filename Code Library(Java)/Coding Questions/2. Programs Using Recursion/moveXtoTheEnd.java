@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class moveXtoTheEndofTheString {
+public class moveXtoTheEnd {
 
 	public static void moveAllX(String str, int idx, int count, String newString) {
 		if (idx == str.length()) {

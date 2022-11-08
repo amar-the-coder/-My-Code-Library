@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.HashSet;
 
-public class subSequenceUniqueOfString {
+public class subSequenceUniOfString {
 	public static void uniqueSub(String str, int idx, String newString, HashSet<String> allSeq) {
 		if (idx == str.length()) {
 			if (allSeq.contains(newString)) {

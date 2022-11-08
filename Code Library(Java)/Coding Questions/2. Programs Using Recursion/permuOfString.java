@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class permutationsOfString {
+public class permuOfString {
 
 	public static void printPermutation(String str, String permutation) {
 		if (str.length() == 0) {

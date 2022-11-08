@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringReverseApproach2 {
+public class StringReverseWay2 {
 
 	public static String revString(String str) {
 		if (str.length() == 1)

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class subSequenceOfString {
+public class subSequenceString {
 	public static void subsequences(String str, int idx, String newString) {
 		if (idx == str.length()) {
 			System.out.println(newString);

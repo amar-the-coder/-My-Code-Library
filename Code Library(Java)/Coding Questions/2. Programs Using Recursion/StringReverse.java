@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class printStringReverse {
+public class StringReverse {
 	public static void printrev(String str, int idx) {
 		if (idx == 0) {
 			System.out.println(str.charAt(idx));

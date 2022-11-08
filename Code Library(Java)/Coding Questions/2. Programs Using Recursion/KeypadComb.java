@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class KeypadCombination {
+public class KeypadComb {
 
 	public static String[] keypad = { "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwx", "yz" };
 
