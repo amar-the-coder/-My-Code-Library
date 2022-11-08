@@ -1,5 +1,4 @@
 // find the no of ways in which you can invite N people to your party, single or in pairs.
-package recursion;
 
 import java.util.Scanner;
 

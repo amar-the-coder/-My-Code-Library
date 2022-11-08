@@ -1,4 +1,3 @@
-package programs;
 
 public class firstProgram {
 

@@ -1,7 +1,7 @@
 // time complexity = O(n)
 
 
-package recursion;
+// package recursion;
 
 import java.util.Scanner;
 

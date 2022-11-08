@@ -1,4 +1,4 @@
-package searchingAndSorting;
+// package searchingAndSorting;
 
 import java.util.Scanner;
 
@@ -12,31 +12,27 @@ public class SearchElement2DArray {
 		int rows = sc.nextInt();
 		System.out.println("enter the rows of the array");
 		int colums = sc.nextInt();
-		
-	    int [][] arr = new int[rows][colums];
+
+		int[][] arr = new int[rows][colums];
 		System.out.println("enter the elements in the array");
-		for(int i=0; i<rows ; i++)
-		{
-			for(int j=0; j<colums;j++) {
-			arr[i][j] = sc.nextInt();
-		}
+		for (int i = 0; i < rows; i++) {
+			for (int j = 0; j < colums; j++) {
+				arr[i][j] = sc.nextInt();
+			}
 		}
 		System.out.println("enter the element you want search ");
 		int value = sc.nextInt();
-		for(int i = 0; i<rows ; i++)
-		{
-			for(int j=0; j<colums;j++) {
-			if(arr[i][j]==value)
-			{
-				System.out.println("element found at location (" +i+ ","+j+")");
-				f =1;
-				break;
-			}
+		for (int i = 0; i < rows; i++) {
+			for (int j = 0; j < colums; j++) {
+				if (arr[i][j] == value) {
+					System.out.println("element found at location (" + i + "," + j + ")");
+					f = 1;
+					break;
+				}
 			}
 		}
-		if(f==0) {
-	System.out.println("element not found");
-}
+		if (f == 0) {
+			System.out.println("element not found");
+		}
 	}
 }
-

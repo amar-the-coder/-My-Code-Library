@@ -1,8 +1,22 @@
 {
   "java.project.sourcePaths": [
+    "Code Library(Java)/Coding Questions/7. Maths",
+    "Code Library(Java)/Coding Questions/6. Bit Manipulation",
+    "Code Library(Java)/Coding Questions/5. Strings",
+    "Code Library(Java)/Coding Questions/4. Arrays/3. DSA Level Questions",
+    "Code Library(Java)/Coding Questions/4. Arrays/2. Basic But Level Up/2. 2D array",
+    "Code Library(Java)/Coding Questions/4. Arrays/2. Basic But Level Up/1. 1D array",
+    "Code Library(Java)/Coding Questions/4. Arrays/1. Basic Questions/2. 2D array",
+    "Code Library(Java)/Coding Questions/4. Arrays/1. Basic Questions/1. 1D array",
+    "Code Library(Java)/Coding Questions/3. Searching And Sorting",
+    "Code Library(Java)/Coding Questions/2. Programs Using Recursion",
+    "Code Library(Java)/Coding Questions/1. Basic Programs/3. Patterns Problems",
+    "Code Library(Java)/Coding Questions/1. Basic Programs/2. Basic But Level-up Problems",
+    "Code Library(Java)/Coding Questions/1. Basic Programs/1. Basic level Questions",
     "Code Library(Java)/Alpha Batch Questions/3. Conditional Statements/Lectures",
+    "Code Library(Java)/Alpha Batch Questions/2. Operators/Assignment Questions",
     "Code Library(Java)/Alpha Batch Questions/1. Inputs and Variables/PDF Questions",
     "Code Library(Java)/Alpha Batch Questions/1. Inputs and Variables/Lectures Questions",
-    "Code Library(Java)/Alpha Batch Questions/2. Operators/Assignment Questions"
+    "Code Library(Java)/Coding Questions/8. BasicsOfCollectionFrameworks"
   ]
 }
