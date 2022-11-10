@@ -30,6 +30,8 @@ public class printfibonacci {
 
 		printfib(a, b, num - 2);
 
+		sc.close();
+
 	}
 
 }

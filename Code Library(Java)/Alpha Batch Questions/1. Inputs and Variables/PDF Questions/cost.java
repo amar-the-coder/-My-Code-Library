@@ -19,5 +19,7 @@ public class cost {
         float final_cost = total_cost + gst;
         System.out.println("the final price after the gst is " + final_cost);
 
+        sc.close();
+
     }
 }

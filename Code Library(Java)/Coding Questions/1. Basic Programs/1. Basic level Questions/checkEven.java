@@ -13,6 +13,8 @@ public class checkEven {
 
 		checkEven(n);
 
+		Sc.close();
+
 	}
 
 	public static void checkEven(int n) {

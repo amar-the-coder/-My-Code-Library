@@ -19,7 +19,8 @@ public class StringReverseWay2 {
 		String str = sc.nextLine();
 
 		String Reversed = revString(str);
-		System.out.println("reversed");
+		System.out.println(Reversed);
+		sc.close();
 	}
 
 }

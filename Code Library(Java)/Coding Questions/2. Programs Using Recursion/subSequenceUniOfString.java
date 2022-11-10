@@ -35,6 +35,7 @@ public class subSequenceUniOfString {
 		HashSet<String> allSeq = new HashSet<>();
 
 		uniqueSub(str, 0, "", allSeq);
+		sc.close();
 
 	}
 

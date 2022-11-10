@@ -10,5 +10,6 @@ public class AreaSquare {
         int side = sc.nextInt();
 
         System.out.println("The area of the square is " + (side * side));
+        sc.close();
     }
 }

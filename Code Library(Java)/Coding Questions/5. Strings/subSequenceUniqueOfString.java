@@ -36,6 +36,7 @@ public class subSequenceUniqueOfString {
 		HashSet<String> allSeq = new HashSet<>();
 
 		uniqueSub(str, 0, "", allSeq);
+		sc.close();
 
 	}
 

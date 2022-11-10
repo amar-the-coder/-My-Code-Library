@@ -27,6 +27,7 @@ public class subSequenceString {
 
 		int idx = 0;
 		subsequences(str, idx, "");
+		sc.close();
 	}
 
 }

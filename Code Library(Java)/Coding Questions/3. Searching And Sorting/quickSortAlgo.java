@@ -77,7 +77,7 @@ public class quickSortAlgo {
 
 			System.out.println(arr[i]);
 		}
-
+		sc.close();
 	}
 
 }

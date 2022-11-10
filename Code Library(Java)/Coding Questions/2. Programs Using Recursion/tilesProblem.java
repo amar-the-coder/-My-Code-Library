@@ -38,6 +38,7 @@ public class tilesProblem {
 
 		int ans = placeTiles(n, m);
 		System.out.println(ans);
+		sc.close();
 	}
 
 }

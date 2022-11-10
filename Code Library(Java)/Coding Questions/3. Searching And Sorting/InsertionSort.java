@@ -34,5 +34,6 @@ public class InsertionSort {
 			arr[j + 1] = current;
 		}
 		printArray(arr);
+		sc.close();
 	}
 }

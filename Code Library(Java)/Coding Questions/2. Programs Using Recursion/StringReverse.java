@@ -20,6 +20,7 @@ public class StringReverse {
 		String str = sc.nextLine();
 
 		printrev(str, str.length() - 1);
+		sc.close();
 
 	}
 

@@ -36,6 +36,8 @@ public class BubbleSort {
 			}
 		}
 		printArray(arr);
+
+		sc.close();
 	}
 
 }

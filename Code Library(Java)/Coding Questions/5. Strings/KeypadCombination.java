@@ -36,7 +36,8 @@ public class KeypadCombination {
 		int idx = 0;
 		String Combination = "";
 
-		printComb(str, idx, "");
+		printComb(str, idx, Combination);
+		sc.close();
 
 	}
 

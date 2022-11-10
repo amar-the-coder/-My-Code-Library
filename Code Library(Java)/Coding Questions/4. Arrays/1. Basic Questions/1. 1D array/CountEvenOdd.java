@@ -10,7 +10,7 @@ public class CountEvenOdd {
 		System.out.println("enter length");
 		int size = sc.nextInt();
 		int arr[] = new int[size];
-		int n;
+
 		int even = 0, odd = 0;
 		for (int i = 0; i < size; i++)
 			arr[i] = sc.nextInt();
@@ -24,6 +24,7 @@ public class CountEvenOdd {
 
 		}
 		System.out.println("Even in array " + even + " odd in array " + odd);
+		sc.close();
 
 	}
 

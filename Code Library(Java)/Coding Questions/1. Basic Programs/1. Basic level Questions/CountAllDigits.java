@@ -21,6 +21,7 @@ public class CountAllDigits {
 		int num = Sc.nextInt();
 		int ans = countDigits(num);
 		System.out.println(ans);
+		Sc.close();
 
 	}
 

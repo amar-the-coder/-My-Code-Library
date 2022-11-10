@@ -21,6 +21,7 @@ public class SumOfDigits {
 		System.out.println("enter the number");
 		int num = sc.nextInt();
 		sumDigits(num);
+		sc.close();
 	}
 
 }

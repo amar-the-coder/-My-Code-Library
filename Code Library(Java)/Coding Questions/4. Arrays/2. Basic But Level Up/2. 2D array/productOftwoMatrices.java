@@ -31,6 +31,7 @@ public class productOftwoMatrices {
 		if (c1 != r2) {
 			System.out.println("invalid multiplication cannot happen");
 			return;
+
 		}
 
 		int prod[][] = new int[r1][c2];
@@ -49,6 +50,8 @@ public class productOftwoMatrices {
 			}
 			System.out.println();
 		}
+
+		sc.close();
 
 	}
 

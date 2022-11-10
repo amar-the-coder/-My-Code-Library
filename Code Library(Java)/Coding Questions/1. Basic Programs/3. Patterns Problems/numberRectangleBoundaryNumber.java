@@ -6,7 +6,7 @@ public class numberRectangleBoundaryNumber {
      public static void main(String[] args) {
           // TODO Auto-generated method stub
           int n = 5;
-          int m = 4;
+          // int m = 4;
 
           Scanner sc = new Scanner(System.in);
 
@@ -38,8 +38,6 @@ public class numberRectangleBoundaryNumber {
           //
           // System.out.println();
 
-          // method 2 from kunal kushwaha video::
-
           int originalN = n;
           n = 2 * n;
 
@@ -52,6 +50,7 @@ public class numberRectangleBoundaryNumber {
                }
                System.out.println();
           }
+          sc.close();
      }
 }
 

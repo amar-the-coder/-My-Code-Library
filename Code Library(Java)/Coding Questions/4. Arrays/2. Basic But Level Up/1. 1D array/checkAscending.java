@@ -30,6 +30,7 @@ public class checkAscending {
 		} else {
 			System.out.println("The array is not sorted in ascending order");
 		}
+		sc.close();
 
 	}
 

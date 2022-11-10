@@ -7,9 +7,9 @@ public class introStrings {
   public static void main(String[] args) {
 
     // declare a string
-    String name = "name";
-    String fullName = "Elon Musk";
-    String Sen = "Elon Founded Space X";
+    // 1. String name = "name";
+    // 2. String fullName = "Elon Musk";
+    // 3. String Sen = "Elon Founded Space X";
 
     // user input;
     Scanner sc = new Scanner(System.in);
@@ -86,6 +86,8 @@ public class introStrings {
 
     System.out.println("convert to lowercase " + str2.toLowerCase());
     System.out.println("convert to uppercase " + str2.toUpperCase());
+
+    sc.close();
 
   }
 

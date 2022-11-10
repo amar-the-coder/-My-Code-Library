@@ -20,6 +20,8 @@ public class swapProgram {
 		System.out.println("the new value of a is " + a);
 		System.out.println("the new value of b is " + b);
 
+		sc.close();
+
 	}
 
 }

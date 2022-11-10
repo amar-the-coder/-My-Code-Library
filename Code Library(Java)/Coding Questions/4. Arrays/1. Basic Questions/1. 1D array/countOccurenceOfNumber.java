@@ -29,6 +29,7 @@ public class countOccurenceOfNumber {
 			System.out.print(arr[i] + " ");
 
 		System.out.println("\nNumber of occurrence of '" + n + "' in the array is " + count);
+		sc.close();
 	}
 
 }

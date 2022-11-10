@@ -9,6 +9,7 @@ public class printTable {
 		System.out.println("enter the value");
 		int n = sc.nextInt();
 		printTable(n);
+		sc.close();
 	}
 
 	public static void printTable(int n) {
@@ -17,6 +18,7 @@ public class printTable {
 
 			System.out.println(n + "*" + i + "=" + n * i);
 		}
+
 	}
 
 }

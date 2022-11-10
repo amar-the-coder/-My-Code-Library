@@ -8,6 +8,6 @@ public class circleArea {
         float rad = s.nextInt();
 
         System.out.println("the area of the circle is = " + (rad * rad * pi));
-
+        s.close();
     }
 }

@@ -14,6 +14,7 @@ public class halfPyramidwithNumbers {
 			}
 			System.out.println();
 		}
+		sc.close();
 	}
 
 }

@@ -59,6 +59,8 @@ public class spiralMatrix {
 			}
 		}
 
+		sc.close();
+
 	}
 
 }

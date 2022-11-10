@@ -23,6 +23,8 @@ public class String3Questions {
 
 		System.out.println("the total length is " + totalLength);
 
+		sc.close();
+
 		// question 2: input a string from the user create a new String called 'result'
 		// in which you will replace the letter 'e' in the original string with letter
 		// 'i'
@@ -43,6 +45,7 @@ public class String3Questions {
 			}
 		}
 		System.out.println(result);
+		Sc.close();
 
 		// question 3: input an email from the user and you have to create a substring
 		// from the email by deleting the part that comes after '@'
@@ -63,6 +66,7 @@ public class String3Questions {
 		}
 
 		System.out.println(userName);
+		w.close();
 
 	}
 

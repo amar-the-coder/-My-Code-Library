@@ -30,6 +30,8 @@ public class primeNumberMethodTwo {
 
 		}
 
+		sc.close();
+
 	}
 
 }

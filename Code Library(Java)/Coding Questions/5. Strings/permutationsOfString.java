@@ -30,6 +30,7 @@ public class permutationsOfString {
 
 		String permutation = "";
 		printPermutation(str, permutation);
+		sc.close();
 
 	}
 

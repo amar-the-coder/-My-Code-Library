@@ -21,6 +21,7 @@ public class trailingZerosFactorial {
 
 		int ans = trailingZeros(n);
 		System.out.println(ans);
+		sc.close();
 
 	}
 

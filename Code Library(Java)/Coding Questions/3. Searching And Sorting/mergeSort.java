@@ -166,7 +166,7 @@ public class mergeSort {
 		int begin = 0;
 		int end = n - 1;
 
-		divideMethod(arrA, 0, n - 1);
+		divideMethod(arrA, begin, end);
 
 		// print
 		System.out.println("the sorted array is:");
@@ -174,6 +174,7 @@ public class mergeSort {
 
 			System.out.println(arrA[i]);
 		}
+		sc.close();
 
 	}
 }

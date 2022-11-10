@@ -27,6 +27,8 @@ public class findNoOfBitsChangeToAtoB {
         System.out.println("the bits required is " + count);
 
         // program doesn't but logic is right
+
+        sc.close();
     }
 
 }

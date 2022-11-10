@@ -21,6 +21,8 @@ public class print1toN {
 		System.out.println("printing 1 to 100 using recursion");
 		printNumber(n);
 
+		sc.close();
+
 	}
 
 }

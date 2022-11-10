@@ -24,6 +24,7 @@ public class checkPrime {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		checkPrime(n);
+		sc.close();
 	}
 
 }

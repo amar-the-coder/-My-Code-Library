@@ -20,6 +20,7 @@ public class hcf {
 
             System.out.println("the hcf is  " + b);
         }
+        sc.close();
     }
 
 }

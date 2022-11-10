@@ -7,6 +7,7 @@ public class ReverseArray {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         Scanner sc = new Scanner(System.in);
+        sc.close();
         System.out.println("enter the size of array");
 
         int size = sc.nextInt();
@@ -33,6 +34,7 @@ public class ReverseArray {
         for (i = 0; i < size; i++) {
             System.out.println(arr[i]);
         }
+
     }
 
 }

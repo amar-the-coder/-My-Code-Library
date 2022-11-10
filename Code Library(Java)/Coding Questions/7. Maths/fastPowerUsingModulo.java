@@ -34,6 +34,7 @@ public class fastPowerUsingModulo {
 		long b = sc.nextLong();
 		long ans = fastpower(a, b, 1000000000);
 		System.out.println(ans);
+		sc.close();
 
 	}
 }

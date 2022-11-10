@@ -32,6 +32,7 @@ public class reverseString {
 			rev += s1.charAt(i);
 		}
 		System.out.println(rev);
+		sc.close();
 	}
 
 }

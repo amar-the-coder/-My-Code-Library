@@ -2,14 +2,14 @@
 
 import java.util.Scanner;
 
-public class countNoOfOneBits {
+public class countNoOfBits {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		System.out.println("enter number");
 		Scanner sc = new Scanner(System.in);
-		int num = sc.nextInt();
+		int num = sc.nextInt();  
 		int pos = 0;
 		int count = 0;
 
@@ -22,6 +22,8 @@ public class countNoOfOneBits {
 		}
 
 		System.out.println(count);
+
+		sc.close();
 
 	}
 

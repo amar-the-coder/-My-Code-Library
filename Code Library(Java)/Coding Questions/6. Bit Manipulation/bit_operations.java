@@ -103,6 +103,8 @@ public class bit_operations {
 
 		}
 
+		sc.close();
+
 	}
 
 }

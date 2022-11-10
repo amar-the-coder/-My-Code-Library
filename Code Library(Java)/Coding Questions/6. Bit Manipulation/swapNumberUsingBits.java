@@ -20,6 +20,8 @@ public class swapNumberUsingBits {
 
     System.out.println("a is = " + a + " and b is = " + b);
 
+    sc.close();
+
   }
 
 }

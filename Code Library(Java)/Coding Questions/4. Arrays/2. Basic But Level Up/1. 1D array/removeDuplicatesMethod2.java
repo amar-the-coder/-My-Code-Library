@@ -8,6 +8,7 @@ public class removeDuplicatesMethod2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
+		sc.close();
 		int size;
 		System.out.println("enter the size");
 		size = sc.nextInt();

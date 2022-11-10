@@ -20,6 +20,7 @@ public class invertedHalfPyramidRotated {
 			}
 			System.out.println();
 		}
+		sc.close();
 	}
 
 }

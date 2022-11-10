@@ -27,6 +27,7 @@ public class linearSearch {
 		if (f == 0) {
 			System.out.println("element not found");
 		}
+		sc.close();
 	}
 
 }

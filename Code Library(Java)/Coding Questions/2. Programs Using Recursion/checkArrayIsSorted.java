@@ -37,10 +37,9 @@ public class checkArrayIsSorted {
 			arr[i] = sc.nextInt();
 		}
 
-		int idx = 0;
-
 		boolean ans = isSorted(arr, 0);
 		System.out.println(ans);
+		sc.close();
 
 	}
 

@@ -39,6 +39,8 @@ public class printLastAndFirstOcurrString {
 
 		System.out.println("first occurence: " + first);
 		System.out.println("last occurence: " + last);
+
+		sc.close();
 	}
 
 }

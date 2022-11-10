@@ -31,6 +31,7 @@ public class callFriendsInParty {
 
 		int waystoCall = calGuest(n);
 		System.out.println(waystoCall);
+		sc.close();
 
 	}
 

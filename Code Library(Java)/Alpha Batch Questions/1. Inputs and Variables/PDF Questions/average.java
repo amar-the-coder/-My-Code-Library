@@ -21,5 +21,7 @@ public class average {
 
         System.out.println("the avergae marks of the student is " + average_marks);
 
+        sc.close();
+
     }
 }

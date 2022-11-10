@@ -21,6 +21,8 @@ public class printStringReverse {
 
 		printrev(str, str.length() - 1);
 
+		sc.close();
+
 	}
 
 }

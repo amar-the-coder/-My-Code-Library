@@ -52,6 +52,7 @@ public class additionOfTwoMatrices {
 
 			}
 		}
+		sc.close();
 
 	}
 

@@ -23,6 +23,7 @@ class towerOfHanoi {
 		int x = sc.nextInt();
 
 		towerOfHanoi(x, "S", "H", "D");
+		sc.close();
 	}
 
 }

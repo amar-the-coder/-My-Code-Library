@@ -31,6 +31,8 @@ public class permuOfString {
 		String permutation = "";
 		printPermutation(str, permutation);
 
+		sc.close();
+
 	}
 
 }

@@ -23,6 +23,8 @@ public class printFactorialRange {
 			System.out.println("the factorial of " + currNum + " is " + fact);
 		}
 
+		sc.close();
+
 	}
 
 }

@@ -33,6 +33,7 @@ class countMazeProblems {
 		int totalPaths = countPaths(0, 0, n, m);
 
 		System.out.println("the number of paths " + totalPaths);
+		sc.close();
 
 	}
 

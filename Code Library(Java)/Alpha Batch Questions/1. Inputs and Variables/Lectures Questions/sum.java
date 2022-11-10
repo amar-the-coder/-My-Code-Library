@@ -15,5 +15,7 @@ public class sum {
 
         // for the calculation of product
         System.out.println("the product of " + a + "+" + b + " is=" + (a * b));
+
+        s.close();
     }
 }

@@ -9,6 +9,7 @@ public class removesDuplicates {
 		// TODO Auto-generated method stub
 		// METHOD 1
 		Scanner sc = new Scanner(System.in);
+		sc.close();
 		int size;
 		System.out.println("enter the size");
 		size = sc.nextInt();
@@ -36,6 +37,7 @@ public class removesDuplicates {
 		for (i = 0; i < size; i++) {
 			System.out.println(arr[i] + " ");
 		}
+
 	}
 
 }

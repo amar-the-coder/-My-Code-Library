@@ -14,6 +14,7 @@ public class sumNaturalNumbers {
           }
 
           System.out.println("the sum of first " + n + " natural numbers is " + sum);
+          sc.close();
 
      }
 

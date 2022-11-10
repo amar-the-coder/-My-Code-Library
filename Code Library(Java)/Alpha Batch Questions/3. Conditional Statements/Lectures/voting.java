@@ -14,5 +14,7 @@ public class voting {
         else {
             System.out.println("try next time");
         }
+        sc.close();
+
     }
 }

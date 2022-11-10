@@ -36,6 +36,7 @@ public class removeDupliStrings {
 		int idx = 0;
 
 		removeDuplicates(str, idx, "");
+		sc.close();
 	}
 
 }

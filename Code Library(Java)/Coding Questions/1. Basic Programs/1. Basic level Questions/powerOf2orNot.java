@@ -31,6 +31,7 @@ public class powerOf2orNot {
 		else {
 			System.out.println("no it is not in power");
 		}
+		sc.close();
 
 	}
 

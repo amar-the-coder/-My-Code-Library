@@ -28,7 +28,7 @@ public class RevNumber {
 		int num = sc.nextInt();
 
 		revNumber(num);
-
+		sc.close();
 	}
 
 }

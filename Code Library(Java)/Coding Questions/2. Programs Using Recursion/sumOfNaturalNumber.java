@@ -26,6 +26,7 @@ public class sumOfNaturalNumber {
 		int i = 0;
 		int sum = 0;
 		sumNatural(num, i, sum);
+		sc.close();
 
 	}
 

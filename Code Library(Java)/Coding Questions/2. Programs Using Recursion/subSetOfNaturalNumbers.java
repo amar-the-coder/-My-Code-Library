@@ -38,6 +38,7 @@ public class subSetOfNaturalNumbers {
 
 		ArrayList<Integer> Subset = new ArrayList<>();
 		findSubsets(n, Subset);
+		sc.close();
 
 	}
 

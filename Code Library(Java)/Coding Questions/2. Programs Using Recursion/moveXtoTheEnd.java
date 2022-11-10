@@ -39,7 +39,9 @@ public class moveXtoTheEnd {
 		int count = 0;
 		String newString = "";
 
-		moveAllX(str, idx, count, "");
+		moveAllX(str, idx, count, newString);
+
+		sc.close();
 
 	}
 

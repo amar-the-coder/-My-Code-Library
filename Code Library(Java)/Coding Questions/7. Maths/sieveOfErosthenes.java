@@ -43,6 +43,7 @@ public class sieveOfErosthenes {
 		for (int i = 0; i <= n; i++) {
 			System.out.println(i + " " + isprime[i]);
 		}
+		sc.close();
 	}
 
 }

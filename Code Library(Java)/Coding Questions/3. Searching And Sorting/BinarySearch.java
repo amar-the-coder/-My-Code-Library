@@ -50,6 +50,7 @@ public class BinarySearch {
 		int value = sc.nextInt();
 		int r = n - 1;
 		binarysearch(arr, 0, r, value);
+		sc.close();
 
 	}
 }

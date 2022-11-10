@@ -25,6 +25,8 @@ public class findOneNonRepeatingElement {
 		}
 
 		System.out.println("the non repeating element:" + res);
+
+		sc.close();
 	}
 
 }

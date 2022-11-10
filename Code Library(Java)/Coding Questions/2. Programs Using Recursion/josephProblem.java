@@ -26,6 +26,8 @@ public class josephProblem {
 		int ans = josh(p, k);
 		System.out.println(ans);
 
+		c.close();
+
 	}
 
 }

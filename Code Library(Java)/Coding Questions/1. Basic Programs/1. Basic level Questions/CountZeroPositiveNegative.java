@@ -31,6 +31,7 @@ public class CountZeroPositiveNegative {
 		System.out.println("the number of positive is" + pos);
 		System.out.println("the number of negative is" + neg);
 		System.out.println("the number of zeros is" + zero);
+		sc.close();
 	}
 
 }

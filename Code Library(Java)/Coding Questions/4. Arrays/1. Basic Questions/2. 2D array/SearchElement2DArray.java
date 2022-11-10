@@ -34,5 +34,6 @@ public class SearchElement2DArray {
 		if (f == 0) {
 			System.out.println("element not found");
 		}
+		sc.close();
 	}
 }

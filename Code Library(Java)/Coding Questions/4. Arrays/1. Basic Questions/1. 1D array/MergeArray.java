@@ -28,7 +28,7 @@ public class MergeArray {
 
         int n1_len = n1.length;
         int n2_len = n2.length;
-        int n3_len = n1.length + n2.length;
+        int n3_len = n1_len + n2_len;
         int n3[] = new int[n3_len];
         for (int i = 0; i < n1.length; i++) {
             n3[i] = n1[i];
@@ -42,6 +42,7 @@ public class MergeArray {
         for (int i = 0; i < n3_len; i++) {
             System.out.println(n3[i]);
         }
+        sc.close();
     }
 
 }

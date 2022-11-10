@@ -39,6 +39,8 @@ public class SelectionSort {
 			arr[i] = temp;
 		}
 		printArray(arr);
+
+		sc.close();
 	}
 
 }

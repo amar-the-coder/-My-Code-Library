@@ -19,11 +19,11 @@ public class KeypadComb {
 			printComb(str, idx + 1, Combination + mapping.charAt(i));
 		}
 
-		// it can also be writen as:
+		// it can also be written as:
 
 		// for(int i=0; i<keypad[str.charAt(idx)-'0'].length();i++{
-		// char curr = keypad[str.charAt(idx)-'0'].charAt(i);
-		// printComb(str, idx, curr+combination);
+		// char curs = keypad[str.charAt(idx)-'0'].charAt(i);
+		// printComb(str, idx, curs+combination);
 
 	}
 
@@ -36,7 +36,9 @@ public class KeypadComb {
 		int idx = 0;
 		String Combination = "";
 
-		printComb(str, idx, "");
+		printComb(str, idx, Combination);
+
+		sc.close();
 
 	}
 

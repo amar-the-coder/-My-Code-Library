@@ -29,5 +29,6 @@ public class powerOfNumber {
 		int b = sc.nextInt();
 		int ans = calcpower(x, b);
 		System.out.println("the power of " + x + " to " + b + " is: " + ans);
+		sc.close();
 	}
 }

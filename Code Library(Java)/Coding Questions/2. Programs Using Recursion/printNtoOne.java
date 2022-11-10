@@ -21,6 +21,8 @@ public class printNtoOne {
 
 		printNumber(n);
 
+		sc.close();
+
 	}
 
 }

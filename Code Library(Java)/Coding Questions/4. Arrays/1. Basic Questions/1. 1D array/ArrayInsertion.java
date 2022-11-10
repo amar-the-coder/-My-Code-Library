@@ -36,6 +36,7 @@ public class ArrayInsertion {
       for (int i = 0; i < n; i++) {
          System.out.println("the contents of the array index" + " " + i + " " + arr[i]);
       }
+      sc.close();
 
    }
 

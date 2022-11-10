@@ -21,6 +21,8 @@ public class printFactorial {
 
 		int ans = calfact(num);
 		System.out.println("the factorial of a number  " + ans);
+
+		sc.close();
 	}
 
 }

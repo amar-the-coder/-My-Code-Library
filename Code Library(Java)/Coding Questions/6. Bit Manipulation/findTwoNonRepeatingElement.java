@@ -36,6 +36,8 @@ public class findTwoNonRepeatingElement {
 		int b = res ^ a;
 		System.out.println(a + " " + b);
 
+		sc.close();
+
 	}
 
 }

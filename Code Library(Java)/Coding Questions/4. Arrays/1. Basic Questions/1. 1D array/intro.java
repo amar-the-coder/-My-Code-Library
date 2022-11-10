@@ -22,6 +22,7 @@ public class intro {
 		System.out.println("the array contains");
 
 		printArray(n);
+		sc.close();
 
 	}
 

@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "Code Library(Java)/Coding Questions/8. BasicsOfCollectionFrameworks",
     "Code Library(Java)/Coding Questions/7. Maths",
     "Code Library(Java)/Coding Questions/6. Bit Manipulation",
     "Code Library(Java)/Coding Questions/5. Strings",
@@ -17,6 +18,6 @@
     "Code Library(Java)/Alpha Batch Questions/2. Operators/Assignment Questions",
     "Code Library(Java)/Alpha Batch Questions/1. Inputs and Variables/PDF Questions",
     "Code Library(Java)/Alpha Batch Questions/1. Inputs and Variables/Lectures Questions",
-    "Code Library(Java)/Coding Questions/8. BasicsOfCollectionFrameworks"
+    "Code Library(Java)/Alpha Batch Questions/3. Conditional Statements/PDF Questions"
   ]
 }

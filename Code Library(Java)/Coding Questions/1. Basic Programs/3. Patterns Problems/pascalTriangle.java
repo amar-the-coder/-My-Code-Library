@@ -25,6 +25,8 @@ public class pascalTriangle {
 
          System.out.println();
       }
+
+      sc.close();
    }
 
 }
