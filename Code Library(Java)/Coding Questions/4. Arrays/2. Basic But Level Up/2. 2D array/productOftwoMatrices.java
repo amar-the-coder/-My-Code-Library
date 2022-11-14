@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class productOftwoMatrices {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 
 		int r1 = sc.nextInt();
 		int c1 = sc.nextInt();
+
 		int one[][] = new int[r1][c1];
 		System.out.println("enter the content of MAT1");
 		for (int i = 0; i < r1; i++) {
@@ -20,6 +20,8 @@ public class productOftwoMatrices {
 
 		int r2 = sc.nextInt();
 		int c2 = sc.nextInt();
+		sc.close();
+
 		int two[][] = new int[r2][c2];
 		System.out.println("enter the content of MAT1");
 		for (int i = 0; i < r2; i++) {
@@ -51,6 +53,7 @@ public class productOftwoMatrices {
 			System.out.println();
 		}
 
+		sc.close();
 		sc.close();
 
 	}

@@ -8,7 +8,7 @@ public class String3Questions {
 		// TODO Auto-generated method stub
 
 		// question 1: Take an array of string input from the user & find the
-		// cummulative(combined) length of all those strings.
+		// cumulative(combined) length of all those strings.
 		System.out.println("enter the length");
 		Scanner sc = new Scanner(System.in);
 		int size = sc.nextInt();

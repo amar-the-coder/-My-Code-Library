@@ -12,7 +12,7 @@ public class ReverseArray {
 
         int size = sc.nextInt();
         int arr[] = new int[size];
-        System.out.println("enter the elemensts in array");
+        System.out.println("enter the elements in array");
         for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
         }

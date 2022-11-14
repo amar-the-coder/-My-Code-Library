@@ -3,11 +3,11 @@
 import java.util.Scanner;
 
 public class GCD {
-	public static int GCD(int a, int b) {
+	public static int calcGCD(int a, int b) {
 		if (b == 0)
 			return a;
 
-		return GCD(b, a % b);
+		return calcGCD(b, a % b);
 	}
 
 	public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class GCD {
 		System.out.println("enter the number");
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		System.out.println(GCD(a, b));
+		System.out.println(calcGCD(a, b));
 		sc.close();
 	}
 

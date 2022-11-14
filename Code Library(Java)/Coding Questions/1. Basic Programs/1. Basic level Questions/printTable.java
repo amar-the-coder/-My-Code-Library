@@ -8,11 +8,11 @@ public class printTable {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the value");
 		int n = sc.nextInt();
-		printTable(n);
+		calcTable(n);
 		sc.close();
 	}
 
-	public static void printTable(int n) {
+	public static void calcTable(int n) {
 
 		for (int i = 1; i <= 10; i++) {
 

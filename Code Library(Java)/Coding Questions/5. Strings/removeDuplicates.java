@@ -8,7 +8,7 @@ public class removeDuplicates {
 
 	public static boolean[] StringHaaYaNhi = new boolean[1000];
 
-	public static void removeDuplicates(String str, int idx, String newString) {
+	public static void removeDuplicates1(String str, int idx, String newString) {
 
 		if (idx == str.length()) {
 			System.out.println(newString);
@@ -17,13 +17,13 @@ public class removeDuplicates {
 
 		char curr = str.charAt(idx);
 		if (StringHaaYaNhi[curr - 'a']) {
-			removeDuplicates(str, idx + 1, newString);
+			removeDuplicates1(str, idx + 1, newString);
 		}
 
 		else {
 			newString += curr;
 			StringHaaYaNhi[curr - 'a'] = true;
-			removeDuplicates(str, idx + 1, newString);
+			removeDuplicates1(str, idx + 1, newString);
 		}
 	}
 
@@ -35,7 +35,7 @@ public class removeDuplicates {
 
 		int idx = 0;
 
-		removeDuplicates(str, idx, "");
+		removeDuplicates1(str, idx, "");
 
 		sc.close();
 	}

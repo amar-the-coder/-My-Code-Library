@@ -11,13 +11,13 @@ public class checkEven {
 
 		int n = Sc.nextInt();
 
-		checkEven(n);
+		calcEven(n);
 
 		Sc.close();
 
 	}
 
-	public static void checkEven(int n) {
+	public static void calcEven(int n) {
 
 		if (n % 2 == 0) {
 			System.out.println(n + " is even");

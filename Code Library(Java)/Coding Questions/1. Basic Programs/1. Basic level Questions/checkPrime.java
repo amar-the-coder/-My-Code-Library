@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class checkPrime {
 
-	public static void checkPrime(int n) {
+	public static void calcPrime(int n) {
 		int count = 0;
 		for (int i = 1; i <= n; i++) {
 			if (n % i == 0) {
@@ -23,7 +23,7 @@ public class checkPrime {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		checkPrime(n);
+		calcPrime(n);
 		sc.close();
 	}
 
