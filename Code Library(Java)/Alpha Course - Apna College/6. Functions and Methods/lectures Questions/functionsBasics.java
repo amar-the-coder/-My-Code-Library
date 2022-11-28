@@ -97,3 +97,8 @@ public class functionsBasics {
 
 // 1. user defined
 // 2. inbuilt functions--
+
+// types of scopes
+// 1. methods scopes
+// 2. class scope
+// 3. block scope

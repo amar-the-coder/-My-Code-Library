@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class factorial {
+public class factorialQues {
 
     public static int fact(int nums) {
         int fact = 1;

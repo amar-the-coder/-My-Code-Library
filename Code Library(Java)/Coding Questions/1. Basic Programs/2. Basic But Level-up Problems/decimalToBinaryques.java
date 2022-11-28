@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class decimalToBinary {
+public class decimalToBinaryques {
 	static void dectobin(int n) {
 		int[] binaryNum = new int[100000000];
 		int i = 0;
