@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "Code Library(Java)/Alpha Course - Apna College/09_Basic Sorting Algorithms/PDF Questions",
+    "Code Library(Java)/Alpha Course - Apna College/09_Basic Sorting Algorithms/Lectures Questions",
     "Code Library(Java)/Alpha Course - Apna College/08_Arrays/02_PDF Questions",
     "Code Library(Java)/Alpha Course - Apna College/08_Arrays/01_Lectures Questions",
     "Code Library(Java)/Alpha Course - Apna College/07_Advanced Patterns",
@@ -15,14 +16,19 @@
     "Code Library(Java)/Alpha Course - Apna College/02_Operators/01_Assignment Questions",
     "Code Library(Java)/Alpha Course - Apna College/01_Inputs and Variables/02_PDF Questions",
     "Code Library(Java)/Alpha Course - Apna College/01_Inputs and Variables/01_Lectures Questions",
+    "Code Library(Java)/Alpha Course - Apna College/012_Bit Manipulation/PDF Questions",
     "Code Library(Java)/Alpha Course - Apna College/012_Bit Manipulation/Lectures Codes",
     "Code Library(Java)/Alpha Course - Apna College/011_Strings/PDF Questions",
     "Code Library(Java)/Alpha Course - Apna College/010_2D Arrays/PDF Questions",
-    "Code Library(Java)/Alpha Course - Apna College/012_Bit Manipulation/PDF Questions"
+    "Code Library(Java)/Alpha Course - Apna College/010_2D Arrays/Lectures Questions",
+    "Code Library(Java)/Alpha Course - Apna College/011_Strings/Lectures Questions"
   ],
   "cSpell.words": [
+    "aaabbcccdd",
     "aana",
+    "amar",
     "Amarjeet",
+    "apna",
     "Bada",
     "banayo",
     "Binaryques",
@@ -47,6 +53,7 @@
     "Inmatrix",
     "Invertedand",
     "isprime",
+    "Kandane",
     "mainfunc",
     "Ocurr",
     "Oftwo",
@@ -54,6 +61,10 @@
     "printfibonacci",
     "printrev",
     "progam",
-    "sabse"
+    "racecar",
+    "sabse",
+    "subarrays",
+    "vaani",
+    "vanshaj"
   ]
 }
