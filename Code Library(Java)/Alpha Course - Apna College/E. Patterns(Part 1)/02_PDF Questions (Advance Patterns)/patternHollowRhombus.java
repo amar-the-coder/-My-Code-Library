@@ -25,7 +25,6 @@ public class patternHollowRhombus {
                     }
                 }
             }
-            // move to the next line/row
 
             System.out.println();
         }
@@ -39,6 +38,8 @@ public class patternHollowRhombus {
         sc.close();
         hollowRhombus(n);
         sc.close();
+
+        
 
     }
 

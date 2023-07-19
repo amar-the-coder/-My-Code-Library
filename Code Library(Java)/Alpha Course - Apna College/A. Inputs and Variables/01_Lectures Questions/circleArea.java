@@ -5,7 +5,7 @@ public class circleArea {
         Scanner s = new Scanner(System.in);
         float pi = 3.14f;
         System.out.println("enter the value of radius");
-        float rad = s.nextInt();
+        float rad = s.nextFloat();
 
         System.out.println("the area of the circle is = " + (rad * rad * pi));
         s.close();

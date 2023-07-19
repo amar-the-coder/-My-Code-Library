@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class rectangle {
+public class simple_program_practice_rectangle_area {
     public static void main(String[] args) {
         System.out.println("enter the length of the rect");
         System.out.println("enter the breadth of the rect");

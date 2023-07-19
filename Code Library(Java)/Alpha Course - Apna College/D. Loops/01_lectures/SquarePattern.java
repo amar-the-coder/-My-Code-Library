@@ -21,7 +21,7 @@ public class SquarePattern {
         int line = sc.nextInt();
 
         for (int i = 1; i <= line; i++)
-            System.out.println("****");
+            System.out.println("***");
 
         sc.close();
 

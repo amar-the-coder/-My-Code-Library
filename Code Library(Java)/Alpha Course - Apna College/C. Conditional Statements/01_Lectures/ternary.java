@@ -7,6 +7,7 @@ public class ternary {
         int number = 4;
         String ans = ((number % 2) == 0) ? "even" : " odd";
         System.out.println(ans);
+        
 
     }
 }

@@ -5,7 +5,7 @@ public class table {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the number : ");
         int x = sc.nextInt();
-        System.out.println("enter upto what number u want to find the table");
+        System.out.println("enter up to what number u want to find the table");
         int y = sc.nextInt();
 
         for (int i = 1; i <= y; i++) {
